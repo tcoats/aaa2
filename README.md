@@ -1,5 +1,5 @@
 # aaa2
-## Random and reasonably unique (and fairly adorable) human readable ids
+Random and reasonably unique (and fairly adorable) human readable ids
 
 ## Usage
 ```javascript

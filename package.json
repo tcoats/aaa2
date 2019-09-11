@@ -1,6 +1,6 @@
 {
   "name": "aaa2",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Suitably random and reasonably unique human readable (and fairly adorable) ids",
   "main": "./index.js",
   "repository": {
@@ -14,7 +14,7 @@
     "adjective",
     "name"
   ],
-  "author": "Grant Forrest",
+  "author": "Thomas Coats",
   "license": "MIT",
   "homepage": "https://github.com/tcoats/aaa",
   "devDependencies": {
